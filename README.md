@@ -2,11 +2,11 @@
 
 - 🧠 information system student at Multivix<br/>
 - 🌱 I’m currently learning about coding, python.<br/>
-🐍 Python<br/>
-💚 PyCharm<br/>
-🌱 Git<br/>
-🐙 GitHub<br/>
-🪟 Windows<br/>
+- 🐍 Python<br/>
+- 💚 PyCharm<br/>
+- 🌱 Git<br/>
+- 🐙 GitHub<br/>
+- 🪟 Windows<br/>
 
 
 ## 🌐 Socials:
